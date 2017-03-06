@@ -1,0 +1,43 @@
+html, body {
+    font-family: sans-serif;
+}
+
+.container {
+    margin: 0 auto;
+    width: 80%;
+}
+
+.sub-container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.evergreen-image {
+    margin: 0 auto;
+    width: 20em;
+}
+.evergreen-image img {
+    width: 100%;
+}
+
+h1 {
+    text-align: center;
+}
+
+.iframe-embed-container {
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+.iframe-calendar-embed-container {
+    text-align: center;
+    margin: 0 auto;
+}
+
+.contact {
+    text-align: center;
+}
+
+.footer {
+    text-align: center;
+}
