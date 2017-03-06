@@ -1,15 +1,22 @@
 html, body {
     font-family: sans-serif;
+    padding: 0;
+    margin: 0;
 }
 
 .container {
     margin: 0 auto;
-    width: 80%;
+    margin: 0;
+    width: 100%;
+    background-image: url("photos/background.jpg");
 }
 
 .sub-container {
+    background:rgba(255, 255, 255, 0.5);
     width: 80%;
     margin: 0 auto;
+    padding-top: 1em;
+    padding-bottom: 1em;
 }
 
 .evergreen-image {
@@ -25,6 +32,7 @@ h1 {
 }
 
 .iframe-embed-container {
+    text-align: center;
     margin-top: 1em;
     margin-bottom: 1em;
 }
@@ -41,3 +49,14 @@ h1 {
 .footer {
     text-align: center;
 }
+
+
+
+#mc_embed_signup {
+    background:#fff;
+    clear:left;
+    font-size: 1em;
+    text-align: center;
+    background:rgba(255, 255, 255, 0);
+}
+
